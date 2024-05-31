@@ -11,7 +11,7 @@ public class Stroberi extends Tanaman implements Perawatan {
         
         }
     }
-    }
+    
 
     @Override
     public String toString() {
