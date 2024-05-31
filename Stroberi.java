@@ -7,8 +7,10 @@ public class Stroberi extends Tanaman implements Perawatan {
 
     @Override
     public void berkembang() {
-        // TODO Auto-generated method stub
-
+        for (int i = 0; i <= getLamaHidup(); i++) {
+        
+        }
+    }
     }
 
     @Override
